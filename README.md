@@ -12,7 +12,7 @@ The data provided represents customer records stored in a flat CSV file format, 
 
 ---
 
-### **Part 1: Data Pre-processing (70%)**
+### **Part 1: Data Pre-processing**
 
 This portion of the assignment was completed strictly using built-in Python libraries (e.g., `csv`, `json`, `os`, `sys`, `time`)—without the use of libraries such as Pandas or NumPy.
 
@@ -30,7 +30,7 @@ The overall goal is to ensure that downstream data analysts or machine learning 
 
 ---
 
-### **Part 2: Data Visualisation (20%)**
+### **Part 2: Data Visualisation**
 
 In this section, Pandas and Seaborn are used to generate both univariate and multivariate visualisations of the original dataset. These visualisations support the client’s desire to better understand patterns within their customer base.
 
@@ -52,7 +52,7 @@ All plots are created with clarity and interpretability in mind, and functionali
 
 ---
 
-### **Part 3: Code Presentation and Best Practices (10%)**
+### **Part 3: Code Presentation and Best Practices**
 
 The Python code submitted follows best practices in terms of structure, readability, and maintainability. Care was taken to:
 
